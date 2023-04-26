@@ -64,7 +64,7 @@
         // 코드스페이스 커스터마이징
         "extensions": [
         // VS Code 익스텐션
-        //"vscjava.vscode-java-pack"
+        "vscjava.vscode-java-pack",
 
         // GitHub 코파일럿 관련
         "GitHub.copilot",
